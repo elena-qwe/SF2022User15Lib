@@ -1,0 +1,15 @@
+C:\Users\malce\RiderProjects\SF2022User15Lib\SF2022User15Lib\obj\Debug\net6.0\SF2022User15Lib.csproj.AssemblyReference.cache
+C:\Users\malce\RiderProjects\SF2022User15Lib\SF2022User15Lib\obj\Debug\net6.0\SF2022User15Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malce\RiderProjects\SF2022User15Lib\SF2022User15Lib\obj\Debug\net6.0\SF2022User15Lib.AssemblyInfoInputs.cache
+C:\Users\malce\RiderProjects\SF2022User15Lib\SF2022User15Lib\obj\Debug\net6.0\SF2022User15Lib.AssemblyInfo.cs
+C:\Users\malce\RiderProjects\SF2022User15Lib\SF2022User15Lib\obj\Debug\net6.0\SF2022User15Lib.csproj.CoreCompileInputs.cache
+C:\Users\malce\RiderProjects\SF2022User15Lib\SF2022User15Lib\bin\Debug\net6.0\SF2022User15Lib.exe
+C:\Users\malce\RiderProjects\SF2022User15Lib\SF2022User15Lib\bin\Debug\net6.0\SF2022User15Lib.deps.json
+C:\Users\malce\RiderProjects\SF2022User15Lib\SF2022User15Lib\bin\Debug\net6.0\SF2022User15Lib.runtimeconfig.json
+C:\Users\malce\RiderProjects\SF2022User15Lib\SF2022User15Lib\bin\Debug\net6.0\SF2022User15Lib.dll
+C:\Users\malce\RiderProjects\SF2022User15Lib\SF2022User15Lib\bin\Debug\net6.0\SF2022User15Lib.pdb
+C:\Users\malce\RiderProjects\SF2022User15Lib\SF2022User15Lib\obj\Debug\net6.0\SF2022User15Lib.dll
+C:\Users\malce\RiderProjects\SF2022User15Lib\SF2022User15Lib\obj\Debug\net6.0\refint\SF2022User15Lib.dll
+C:\Users\malce\RiderProjects\SF2022User15Lib\SF2022User15Lib\obj\Debug\net6.0\SF2022User15Lib.pdb
+C:\Users\malce\RiderProjects\SF2022User15Lib\SF2022User15Lib\obj\Debug\net6.0\SF2022User15Lib.genruntimeconfig.cache
+C:\Users\malce\RiderProjects\SF2022User15Lib\SF2022User15Lib\obj\Debug\net6.0\ref\SF2022User15Lib.dll

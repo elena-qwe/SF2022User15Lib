@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4809d505_002D0eae_002D4c80_002Da6bb_002D7b4b952c840f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AvailablePeriods_WithNoBusyTimes_ReturnsFullWorkingDay" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B474F9BF-BC5F-45CA-872B-6DB05A06AB47::net6.0::TestProject1.Tests.AvailablePeriods_WithBusyTimes_ReturnsAvailablePeriods&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5fa1c92f_002D183d_002D4520_002D8c19_002Ddc32097ab3fa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AvailablePeriods_WithBusyTimes_ReturnsAvailablePeriods" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B474F9BF-BC5F-45CA-872B-6DB05A06AB47::net6.0::TestProject1.Tests.AvailablePeriods_WithBusyTimes_ReturnsAvailablePeriods&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B474F9BF-BC5F-45CA-872B-6DB05A06AB47::net6.0::TestProject1.Tests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B474F9BF-BC5F-45CA-872B-6DB05A06AB47::net6.0::TestProject1.Tests.AvailablePeriods_Should_Return_Correct_Available_Periods&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B474F9BF-BC5F-45CA-872B-6DB05A06AB47::net6.0::TestProject1.Tests.AvailablePeriods_Should_Return_Empty_Array_When_No_Available_Periods&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xO7gW7jUwwRgsq0rZS+CddTKkFJn7caeA42UFkWG9uM83v7Etke5/V+Dze/wgD+n5/xqJzF9u4iwgNqciL2wtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\malce\\RiderProjects\\SF2022User15Lib\\SF2022User15Lib\\SF2022User15Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malce\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\malce\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\malce\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\malce\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
